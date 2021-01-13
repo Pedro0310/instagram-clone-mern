@@ -16,11 +16,11 @@ You will also see any lint errors in the console.
 
 # Initialize Node Package
 
-### 1. cd mern-instagram-backend
+### `1. cd mern-instagram-backend
 2. npm init
 3. git init
 4. npm i express mongoose cors pusher
-5. start nodemon server.js
+5. start nodemon server.js`
 
 ### For this instagram-clone you will need to add:
 
