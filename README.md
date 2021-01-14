@@ -2,10 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -16,13 +12,12 @@ You will also see any lint errors in the console.
 
 # Initialize Node Package
 
-`1. cd mern-instagram-backend` <br>
-`2. npm init` <br>
-`3. git init` <br>
-`4. npm i express mongoose cors pusher` <br>
-`5. start nodemon server.js` <br>
+`1. cd instagram-clone-mern` <br>
+`2. npm install` <br>
+`3. start nodemon server.js` <br>
+`4. Open [http://localhost:3000]`
 
-### For this instagram-clone you will need to add:
+### For this instagram-clone we used:
 
 npm i react-scripts <br>
 npm i firebase <br>
