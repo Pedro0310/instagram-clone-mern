@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Instagram Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Demo https://instagram-clone-react-e0b8d.web.app/
 
 ### `npm start`
 
