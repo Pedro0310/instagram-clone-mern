@@ -2,6 +2,9 @@
 
 Live Demo https://instagram-clone-react-e0b8d.web.app/
 
+![image](https://user-images.githubusercontent.com/62356757/110710336-0dd45080-81d4-11eb-94fc-0ad36fa9de49.png)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
